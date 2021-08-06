@@ -15,6 +15,6 @@ yarn migrate
 
 check table is on in your sqlite db
 
-## Start Frontend
+## Start Backend
 
 yarn start
